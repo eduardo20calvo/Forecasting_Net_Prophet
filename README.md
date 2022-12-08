@@ -54,5 +54,7 @@ The Prophet Model also generated the following graph for future revenue within t
 Based on the graph, there will be an increase in revenue in the near future, with 3 possibilities that can be considered:
 
 Worst Case: 65,178
-Most Likely case: Achieve modest 71,843.
+
+Most Likely Case: 71,843.
+
 Best Case: 78,520. This would be the best forecasted figure to consider.
